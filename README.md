@@ -47,7 +47,7 @@
 ![PolyAtomicIon's github stats](https://github-readme-stats.vercel.app/api?username=PolyAtomicIon&count_private=true&show_icons=true&hide_title=true&hide_border=true)
 
 ### Top languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyAtomicIon&layout=compact&hide_title=true&hide_border=true&exclude_repo=Ecoqozgalys/data,Ecoqozgalys/main_backend,legal_organization_chat_bot,stop_bullying_kz,site-for-kanat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyAtomicIon&layout=compact&hide_title=true&hide_border=true&exclude_repo=Ecoqozgalys/data,Ecoqozgalys/main_backend,legal_organization_chat_bot,stop_bullying_kz,site-for-kanat,marsacalipsis,geometry_falls_unity2019.3)
 
 [linkedin]: https://www.linkedin.com/in/2powerofn/
 [telegram]: https://t.me/BekzatStudnet
