@@ -9,7 +9,6 @@
 
 - 🔭 I am from KZ
 - 🌱 I enjoy developing 3d interactive stuff
-- 🌱 I work on technologies in technology
 
 
 ### Current stack:
